@@ -115,7 +115,7 @@ get classifier record with id 5
 
 ## 🧑‍💻 Author
 
-**Akshay** – [GitHub](https://github.com/Akshay3237)
+**Akshay** – [GitHub](https://github.com/Akshay3237) [YouTube](https://youtu.be/aSE-El1rs8I) [codechef](https://www.codechef.com/users/akshaygohel364)
 
 ---
 
