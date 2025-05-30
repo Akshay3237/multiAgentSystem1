@@ -1,0 +1,5 @@
+sender="gohelakshay@gmail.com"
+subject="telegram ai agent creation for school management"
+
+content="i have done my telegram ai agent which helps to manage school records of student,staff"
+
