@@ -23,6 +23,7 @@ This project is a powerful multi-agent conversational system built using **LangG
 parseAgent/
 │
 ├── main.py                 # Main entry point,Base LangGraph setup
+├── db.py                   # Helps for handle database
 ├── json_agent.py           # JSON-specific logic and LLM tools
 ├── json_tool.py            # Tool functions for JSON handling
 ├── email_agent.py          # Email agent logic
